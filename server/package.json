@@ -1,0 +1,21 @@
+{
+  "name": "chenlyee",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NetEase/pomelo.git"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "chenlyee",
+    "framework",
+    "game",
+    "realtime",
+    "client"
+  ],
+  "dependencies": {
+    "should": "^13.2.1"
+  }
+}
